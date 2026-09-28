@@ -27,6 +27,12 @@ abliteration, destilación), cuantizar y desplegar *on-device*, y llevarlo hasta
 | 🍽️ | **[Balùa](https://github.com/marcmayol/balua)** | Cuenta las **calorías de un plato desde una foto, 100 % en el móvil**. Qwen2.5-VL-3B destilado (7B→3B) corriendo con llama.cpp. Sin nube, sin subir tus fotos. |
 | 🍳 | **[On-Device AI Cookbook](https://github.com/marcmayol/on-device-ai-cookbook)** | Recetas **probadas en la práctica** para entrenar y desplegar IA en local: Blackwell, litert-torch, abliteration, cuantización. Con los errores y los *fixes* reales. |
 
+## 🤝 Contribuciones open source
+
+| | Repo | Contribución |
+|---|---|---|
+| <img src="https://github.com/microsoft.png" width="20"> | **[microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)** | Traducción al **español** del README y el Quickstart, integrada en la web de docs. [#3673 ↗](https://github.com/microsoft/agent-governance-toolkit/pull/3673) ![Merged](https://img.shields.io/badge/PR-merged-8957e5?style=flat-square&logo=github) |
+
 ## 🛠️ En qué trabajo
 
 - **Fine-tuning** — LoRA, QLoRA, *full fine-tune*, destilación, merges (SLERP), **abliteration**.
